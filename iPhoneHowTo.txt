@@ -1,0 +1,16 @@
+iPhone Transfers
+2020-05-17
+
+1. Manjaro KDE, ~2020/04
+
+2. use pamac, and set preferances -> AUR to ON (plus check for updates = on)
+
+3. use pamac to install ifuse package
+
+4. sudo ifuse ~/iphone.d        ( where ~/iphone.d is the <mountpoint> )
+
+5. develop some tools around this working model
+
+7. help correct the current root-requirement issue for mounts
+
+
