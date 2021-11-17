@@ -14,3 +14,10 @@ iPhone Transfers
 7. help correct the current root-requirement issue for mounts
 
 
+Solus KDE, ~2021-11-16
+
+1. sudo eopkg install libimobiledevice libgpod libideviceactivation
+
+2. reboot
+
+3. ?
